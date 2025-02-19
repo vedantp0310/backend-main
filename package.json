@@ -1,0 +1,20 @@
+{
+  "name": "main_backend_h",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel",
+  "keywords": [
+    "javascrip",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "vedant patel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "main_backend_h": "file:"
+  }
+}
